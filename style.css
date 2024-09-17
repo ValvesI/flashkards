@@ -13,4 +13,6 @@ body{
 footer{
     background-color: black;
     color: var(--frente);
+    position: fixed;
+    bottom: 0;
 }
