@@ -15,6 +15,7 @@
 body{
     background-color:  var(--fundo);
     margin: 0;
+    font-family: "Open Sans", sans-serif;
 }
 
 footer{
