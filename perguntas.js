@@ -53,7 +53,7 @@ criaCartao(
     'Qual a origem da língua inglesa?',
     'Anglo-saxônica')
 
-criaCartão(
+criaCartao(
     'Língua Portuguesa',
     '"Muito" é um advérbio de:',
     'Intensidade')
