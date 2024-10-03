@@ -1,6 +1,6 @@
 criaCartao(
     'Matemática',
-    'Qual a formula para se calcular o volume de um cubo',
+    'Qual a fórmula para se calcular o volume de um cubo',
     'lado ao cubo')
 
 criaCartao(
