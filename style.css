@@ -15,7 +15,7 @@
 body{
     background-color:  var(--fundo);
     margin: 0;
-    font-family: "Open Sans", sans-serif;
+    /* font-family: "Open Sans", sans-serif; */
 }
 
 footer{
@@ -86,6 +86,6 @@ footer{
 }
 
 
-.carta:hover .cartao-conteudo{
+.cartao:hover .cartao-conteudo{
     transform: rotateY(180deg);
 } 
