@@ -75,7 +75,7 @@ footer{
 }
 
 .cartao-resposta p{
-    color: var(--verso);
+    color: var(--frente);
     font-weight: 700;
 }
 
@@ -94,5 +94,7 @@ footer{
 
 .cartao-resposta{
     transform: rotateY(180deg);
-    background-color: var(--frente);
+    background-color: var(--fundo);
+    box-shadow: var(--frente);
+    border-radius: 6px;
 } 
