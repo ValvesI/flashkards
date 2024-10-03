@@ -1,12 +1,12 @@
 criaCartao(
     'Matemática',
     'Qual a fórmula para se calcular o volume de um cubo',
-    'lado ao cubo')
+    'Lado ao cubo')
 
 criaCartao(
     'Geografia',
     'Tipo de relevo do estado paraná?',
-    'é de elevada altitude, formado por planaltos, além de formações de serra, como a Serra Geral e a Serra do Mar')
+    'É de elevada altitude, formado por planaltos, além de formações de serra, como a Serra Geral e a Serra do Mar')
 
 criaCartao(
     'História',
