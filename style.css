@@ -95,6 +95,5 @@ footer{
 .cartao-resposta{
     transform: rotateY(180deg);
     background-color: var(--sombra);
-    box-shadow: var(--frente);
     border-radius: 6px;
 } 
