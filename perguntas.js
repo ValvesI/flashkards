@@ -100,6 +100,6 @@ criaCartao(
     '5 contos e dois capítulos em terceira pessoa')
 
 criaCartao(
-    'Extra',
+    'Química',
     'A unidade de medida que mede concentração de uma substância em uma solução?',
-    'massa/volume')
+    'massa/volume \n g/mol')
