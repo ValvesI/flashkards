@@ -89,3 +89,7 @@ footer{
 .cartao:hover .cartao-conteudo{
     transform: rotateY(180deg);
 } 
+
+.cartao-resposta{
+    transform: rotateY(180deg);
+} 
