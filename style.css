@@ -47,6 +47,7 @@ footer{
     height: 100%;
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
+    border: 6px;
 }
 
 .cartao-conteudo h3{
@@ -65,7 +66,7 @@ footer{
     margin-top: 4rem;
     padding: 2rem;
     font-size: 1.4vw;
-    border-radius: 6px;
+   
 }
 
 .cartao-pergunta p{
