@@ -88,10 +88,11 @@ footer{
 }
 
 
-/* .cartao:hover .cartao-conteudo{
+.cartao:hover .cartao-conteudo{
     transform: rotateY(180deg);
-}  */
+} 
 
 .cartao-resposta{
     transform: rotateY(180deg);
+    background-color: var(--fundo);
 } 
