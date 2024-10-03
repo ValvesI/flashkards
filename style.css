@@ -68,16 +68,16 @@ footer{
 }
 
 .cartao-pergunta p{
-    color: var(--frente);
+    color: var(--sombra);
     font-weight: 500;
 }
 
-.cartao-reposta p{
+.cartao-resposta p{
     color: var(--verso);
     font-weight: 700;
 }
 
-.cartao-pergunta, .cartao-reposta{
+.cartao-pergunta, .cartao-resposta{
     visibility: hidden;
     position: absolute;
     height: 100%;
