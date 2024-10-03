@@ -50,7 +50,7 @@ footer{
 }
 
 .cartao-conteudo h3{
-    color: var(--frente);
+    color: var(--sombra);
     border: 1px solid var(--frente);
     text-align: left;
     padding: 0.5rem;
