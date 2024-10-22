@@ -49,6 +49,7 @@ footer{
     border: 1px solid black;
     border-radius: 6px;
     box-shadow: 2px 5px 18px black;
+    padding: 20px;
 }
 
 .cartao-resposta{
