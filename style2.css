@@ -50,3 +50,9 @@ footer{
     border-radius: 6px;
     box-shadow: 2px 5px 18px black;
 }
+
+.cartao-resposta{
+    background-color: var(--verso);
+    margin-top: 5px;
+    padding: 20px;
+}
