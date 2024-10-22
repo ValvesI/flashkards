@@ -18,6 +18,18 @@ body{
     font-family: "Open Sans", sans-serif;
 }
 
+header{
+    background-color: black;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+header a{
+    color: white;
+    text-decoration: none;
+}
+
 footer{
     background-color: black;
     color: var(--frente);
