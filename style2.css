@@ -1,0 +1,40 @@
+/* Imports */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+/* Variables */
+:root{
+    --fundo: #503C3C;
+    --sombra: #3E3232;
+    --verso: #6b5050;
+    --frente: #ffdcdc; /* cor do texto */
+ 
+}
+
+
+/* Classes */
+body{
+    background-color:  var(--fundo);
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+header{
+    background-color: black;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+header a{
+    color: white;
+    text-decoration: none;
+}
+
+footer{
+    background-color: black;
+    color: var(--frente);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
