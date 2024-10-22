@@ -48,5 +48,5 @@ footer{
     background-color: var(--frente) ;
     border: 1px solid black;
     border-radius: 6px;
-    box box-shadow: 2px 2px 2px black;
+    box-shadow: 2px 2px 2px black;
 }
