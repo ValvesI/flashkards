@@ -46,4 +46,7 @@ footer{
 
 .cartao-conteudo{
     background-color: var(--frente) ;
+    border: 1px solid black;
+    border-radius: 6px;
+    
 }
