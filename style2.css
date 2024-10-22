@@ -38,3 +38,12 @@ footer{
     width: 100%;
 }
 
+#container{
+    display: grid;
+    padding: 2rem;
+    gap: 3rem;
+}
+
+.cartao-conteudo{
+    background-color: var(--frente) ;
+}
