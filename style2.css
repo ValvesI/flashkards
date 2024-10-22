@@ -50,6 +50,7 @@ footer{
     border-radius: 6px;
     box-shadow: 2px 5px 18px black;
     padding: 20px;
+    cursor: pointer;
 }
 
 .cartao-resposta{
@@ -57,5 +58,7 @@ footer{
     color: var(--frente);
     margin-top: 5px;
     padding: 20px;
-    border-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    display: none;
 }
